@@ -17,13 +17,13 @@ ARGUS — A Raspberry-pi Guardian for Uptime & Services.
 Default Argus icon:
 
 ```text
-https://raw.githubusercontent.com/TerrymanJr/homelab-icons/main/argus/argus.png
+https://raw.githubusercontent.com/a0za/homelab-icons/main/argus/argus.png
 ```
 
 Uptime Kuma watchdog icon:
 
 ```text
-https://raw.githubusercontent.com/TerrymanJr/homelab-icons/main/argus/argus-kuma.png
+https://raw.githubusercontent.com/a0za/homelab-icons/main/argus/argus-kuma.png
 ```
 
 All icons are 512×512 transparent PNG files.
